@@ -1,0 +1,6 @@
+# Carpeta para colocar imágenes BMP de prueba (24 bits sin compresión)
+# Ejemplos recomendados para testear:
+# - Imagen cuadrada (ej: 100x100)
+# - Imagen rectangular (ej: 150x75)
+# - Imagen con padding (ej: 239 px de ancho, no múltiplo de 4)
+# - Imagen mínima (1x1 px)

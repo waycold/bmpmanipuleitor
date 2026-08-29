@@ -1,0 +1,25 @@
+# Compilados y binarios
+*.exe
+*.o
+*.obj
+*.out
+bmpmanipuleitor
+bmpmanipuleitor.exe
+
+# Archivos comprimidos de entrega
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Archivos temporales o de depuración
+*.log
+*.tmp
+gmon.out
